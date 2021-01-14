@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/VyCZfcm)
+![](66057d767b34bef27fd4f834d44c0aea-flat-mouse-icon-by-vexels.png)
 
 # MobileMouse
 
