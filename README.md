@@ -39,11 +39,11 @@ Now only the initial 1.0.0 version is available, we will inform you of any furth
 
 ## Authors
 
-* **Jasa Frelih Crv** - *Initial idea and further work, project leader* 
+* **Jasa Frelih Crv** - *Initial idea and AirMouse part coding, project leader* 
 
-* **Tilen Mocnik** - *server part* 
+* **Tilen Mocnik** - *Server and communication part coding* 
 
-* **Jan Debenjak** - *touchpad part* 
+* **Jan Debenjak** - *Touchpad part coding* 
 
-* **Erika Maglica** - *all around coding and graphical design* 
+* **Erika Maglica** - *All around coding and graphical design* 
 
